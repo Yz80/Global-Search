@@ -1,0 +1,39 @@
+2023-12-14 14:09:55,056 - Game started
+2023-12-14 14:42:06,396 - Game started
+2023-12-14 14:43:29,767 - User command: PORTAL 2
+2023-12-14 14:43:54,720 - User command: PORTAL 1
+2023-12-14 14:43:57,398 - User command: PORTAL 1
+2023-12-14 14:45:12,857 - User command: PORTAL 2
+2023-12-14 15:41:42,016 - Game started
+2023-12-14 21:30:33,148 - Game started
+2023-12-14 21:35:39,103 - User command: PORTAL 2
+2023-12-14 21:36:34,926 - User command: PORTAL 1
+2023-12-14 21:36:45,366 - User command: PORTAL 1
+2023-12-14 21:37:32,241 - User command: PORTAL 2
+2023-12-14 21:38:21,141 - User command: PORTAL 1
+2023-12-14 21:39:03,564 - User command: PORTAL 2
+2023-12-14 21:39:53,734 - User command: PORTAL 4
+2023-12-14 21:40:30,694 - User command: PORTAL 1
+2023-12-14 21:41:14,106 - User command: PORTAL 3
+2023-12-14 21:41:55,641 - User command: PORTAL 3
+2023-12-14 21:42:34,880 - User command: PORTAL 1
+2023-12-14 21:42:58,691 - User command: PORTAL 3
+2023-12-14 21:43:37,773 - User command: PORTAL 3
+2023-12-14 21:44:15,880 - User command: K 
+2023-12-15 12:56:57,637 - Game started
+2023-12-15 13:00:48,765 - User command: PORTAL 1
+2023-12-15 13:01:58,465 - User command: PORTAL 3
+2023-12-15 13:03:03,393 - User command: PORTAL 1
+2023-12-15 13:03:13,582 - User command: PORTAL 2
+2023-12-15 13:03:56,236 - User command: PORTAL 1
+2023-12-19 19:24:47,708 - Game started
+2023-12-19 19:31:39,448 - User command: 2 
+2023-12-19 19:31:44,690 - User command: PORTAL 2
+2023-12-19 19:32:22,951 - User command: PORTAL 1
+2023-12-19 19:32:36,552 - User command: 2 
+2023-12-19 19:33:14,095 - User command: EXIT 1
+2023-12-19 19:33:17,761 - User command: PORTAL 2
+2023-12-19 19:33:32,510 - User command: PORTAL 2
+2023-12-19 19:34:11,748 - User command: PORTAL 3
+2023-12-19 19:35:02,683 - User command: PORTAL 4
+2023-12-19 19:36:03,783 - User command: PORTAL 3
